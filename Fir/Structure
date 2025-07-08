@@ -1,0 +1,6 @@
+treehouse-sampler/
+├── index.html         # Main HTML with canvas
+├── styles.css         # Styling for controls
+├── main.js            # Canvas rendering and logic
+├── README.md          # Project overview
+├── .gitignore         # Ignore unnecessary files
